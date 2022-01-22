@@ -2,7 +2,7 @@
 
 <H2> 📲 Calculadora de IMC</h2>
 
-[![APK](https://img.shields.io/badge/APK-Dowload-green&?style=?style=flat&logo=android&link=https://github.com/lucasmarcuzo/Projeto-DIO-Primeiro-APP/raw/main/APK/app-release.apk)](https://github.com/lucasmarcuzo/Projeto-DIO-Primeiro-APP/raw/main/APK/app-release.apk) 
+[![APK](https://img.shields.io/badge/APK-Dowload-green?style=for-the-badge&logo=android&link=https://github.com/lucasmarcuzo/Projeto-DIO-Primeiro-APP/raw/main/APK/app-release.apk)](https://github.com/lucasmarcuzo/Projeto-DIO-Primeiro-APP/raw/main/APK/app-release.apk) 
 
 ## 👨🏻‍🔬 Instrutor: 
 
